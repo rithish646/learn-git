@@ -6,3 +6,4 @@ a=b
 b=temp
 print("a=",a)
 print("b=",b)
+temp=0
